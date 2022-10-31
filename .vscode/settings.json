@@ -1,0 +1,4 @@
+{
+    "npm.enableRunFromFolder": true,
+    "cs-script.suppress_script_debug_for_workspaces": true
+}
